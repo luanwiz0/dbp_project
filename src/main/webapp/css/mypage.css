@@ -1,0 +1,70 @@
+.box { 
+	display: flex;
+	justify-content : center;
+	text-align:center;
+}
+.boxLeft { 
+	width:246px;
+	height:451px;
+	border:1px solid rgba(0, 0, 0, 1);
+	text-align:center;
+}
+.boxRight { 
+	width:807px;
+
+	padding-left:50px;
+}
+.boxTop { 
+	background-color:rgba(255, 255, 255, 1);
+	width:807px;
+	height:192px;
+	border:1px solid rgba(0, 0, 0, 1);
+	position:relative;
+}
+.welcome { 
+	color:rgba(0, 0, 0, 1);
+	top:113px;
+	font-family:Inter;
+	font-size:24px;
+	letter-spacing:0;
+	font-weight:bold;
+}
+.boxBottom { 
+	background-color:rgba(255, 255, 255, 1);
+	width:806px;
+	height:225px;
+	position:absolute;
+	top:390px;
+	text-align:center;
+	border:1px solid rgba(0, 0, 0, 1);
+	position:absolute;
+}
+.fontStyle { 
+	color:rgba(0, 0, 0, 1);
+	padding:20px;
+	font-family:Inter;
+	font-size:20px;
+	letter-spacing:0;
+	font-weight:bold;
+}
+.progress1 { 
+	background-color:rgba(255, 250.9, 214.6, 1);
+	width:124px;
+	height:111px;
+	border:1px solid rgba(0, 0, 0, 1);
+	float:left;
+	margin-left:15%;
+}
+.progress2 { 
+	background-color:rgba(255, 250.9, 214.6, 1);
+	width:124px;
+	height:111px;
+	border:1px solid rgba(0, 0, 0, 1);
+	margin-left:35%;
+}
+.p1{
+	padding:25% 0 25% 0;
+}
+.p2{
+	padding:20% 0 20% 0;
+}

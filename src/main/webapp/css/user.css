@@ -1,0 +1,151 @@
+	body {
+		font-size: 12px;
+		font-family: 'Nunito Sans', 'Noto Sans KR', sans-serif; 
+	}
+	
+	label{
+		background:#C4C8CC;
+		height:30;
+		width:100px;
+	}
+	
+	input {
+		width:30%;
+		height:40px;
+		border:1px solid #C4C8CC;
+		padding:5px; 
+		font-size: 12px;
+		font-family: 'Nunito Sans', 'Noto Sans KR', sans-serif; 
+		vertical-align: middle;
+	}
+	
+	input.button {
+		width:12%;
+		height:40px;
+		font-size: 12px;
+	}
+	
+	input.big {
+		width:45%;
+	}
+	
+	.small {
+		width:10%;
+	}
+	
+	textarea{
+		width:99%;
+		height:300px;;
+		border:1px solid #C4C8CC;
+		padding-top:6px; 
+		font-size: 12px;
+		font-family: 'Nunito Sans', 'Noto Sans KR', sans-serif; 
+	}
+	
+	table.list {
+		font-family: 'Nunito Sans', 'Noto Sans KR', sans-serif;
+	    font-weight: 400;
+	    border-spacing: 0;
+	    border-collapse: collapse;
+	    line-height: 60px;
+	    color: #4e4c4a;
+	    font-size: 14px;
+	    letter-spacing: -0.3px;
+	    word-break: break-all;
+    	word-wrap: break-word;
+	    padding: 30px 0;
+	    vertical-align: middle;
+	    width: 60%;
+	    position: relative;
+	    margin: 20px 0 0;
+	    border: 1px solid #eeeeee;
+	}
+	
+	table.login1 {
+		font-family: 'Nunito Sans', 'Noto Sans KR', sans-serif;
+	    font-weight: 400;
+	    border-spacing: 0;
+	    border-collapse: collapse;
+	    line-height: 60px;
+	    color: #4e4c4a;
+	    font-size: 14px;
+	    letter-spacing: -0.3px;
+	    word-break: break-all;
+    	word-wrap: break-word;
+	    padding: 30px 0;
+	    vertical-align: middle;
+	    width: 500;
+	    position: relative;
+	    margin: 20px 0 0;
+	    border: 1px solid #eeeeee;
+	}
+	
+	tr {
+		border: 1px solid #eeeeee;
+	}
+
+	h1 {
+		font-family: 'Nunito Sans', 'Noto Sans KR', sans-serif;
+	    font-size: 15px;
+	    line-height: 20px;
+	    font-weight: 300;
+	    color: rgb(65, 74, 67);
+	    font-color:  #eeeeee;
+	}
+	
+	h2 {
+		font-family: 'Nunito Sans', 'Noto Sans KR', sans-serif;
+	    font-size: 25px;
+	    line-height: 30px;
+	    font-weight: 300;
+	    color: rgb(65, 74, 67);
+	    font-color: #414a43;
+	}
+	
+	input.joinus {
+	    font-family: 'Nunito Sans', 'Noto Sans KR', sans-serif;
+	    cursor: pointer;
+	    display: inline-block;
+	    box-sizing: border-box;
+	    border: 1px solid transparent;
+	    text-decoration: none;
+	    vertical-align: middle;
+	    letter-spacing: -0.3px;
+	    text-align: center;
+	    white-space: nowrap;
+	    transition: 0.2s ease-in-out;
+	    color: #ffffff;
+	    background-color: #222222;
+	    word-break: keep-all;
+	    word-wrap: break-word;
+	    width: 150px;
+	    height: 45px;
+	    line-height: 30px;
+	    padding: 0;
+	    font-size: 14px;
+	    font-weight: 400;
+	}
+	
+	input.login2 {
+	    font-family: 'Nunito Sans', 'Noto Sans KR', sans-serif;
+	    cursor: pointer;
+	    display: inline-block;
+	    box-sizing: border-box;
+	    border: 1px solid transparent;
+	    text-decoration: none;
+	    vertical-align: middle;
+	    letter-spacing: -0.3px;
+	    text-align: center;
+	    white-space: nowrap;
+	    transition: 0.2s ease-in-out;
+	    color: #ffffff;
+	    background-color: #222222;
+	    word-break: keep-all;
+	    word-wrap: break-word;
+	    width: 400px;
+	    height: 45px;
+	    line-height: 30px;
+	    padding: 0;
+	    font-size: 14px;
+	    font-weight: 400;
+	}

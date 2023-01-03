@@ -1,0 +1,74 @@
+.page {
+	text-align:center;
+}
+.text {
+	margin:auto;
+	overflow:visible;
+	width: 1114px;
+	text-align: center;
+    font-size:30px;
+    font-family:Inter;
+    padding:50px;
+}
+.table1 {
+	margin:auto;
+	overflow:visible;
+	width: 1114px;
+    border-top: 1px solid rgba(0, 0, 0, 1);
+    border-collapse: collapse;
+}
+.t0 {
+	border-bottom: 1px solid rgba(0, 0, 0, 1);
+    padding: 50px;
+    text-align: center;
+    font-family:Inter;
+}
+.t1 {
+	border-bottom: 1px solid rgba(0, 0, 0, 1);
+    padding: 10px;
+    text-align: center;
+    font-family:Inter;
+}
+.table2 {
+	margin:auto;
+	overflow:visible;
+	width: 1114px;
+	height: 132px;
+	border-collapse: collapse; 
+}
+.t2{
+	text-align: center;
+	border:1px solid rgba(0, 0, 0, 1);
+	font-family:Inter;
+}
+#tColor {
+	background-color:rgba(255, 250, 214, 1);
+}
+.btn {
+	width:1114px;
+    margin:auto;
+}
+.btn1 {
+	padding:20px 50px;
+	border:1px solid rgba(0, 0, 0, 1);
+	font-family:Inter;
+	color:rgba(255, 255, 255, 1);
+	background-color:rgba(69, 68, 59, 1);
+}
+.btn2 {
+	padding:20px 50px;
+	border:1px solid rgba(0, 0, 0, 1);
+	font-family:Inter;
+	color:rgba(255, 255, 255, 1);
+	background-color:rgba(69, 68, 59, 1);
+}
+.btn3 {
+	padding:2px 5px;
+	border:1px solid rgba(0, 0, 0, 1);
+	font-family:Inter;
+	color:rgba(255, 255, 255, 1);
+	background-color:rgba(69, 68, 59, 1);
+}
+.btn1:hover,.btn2:hover {
+	background-color:rgba(120, 120, 120, 120);
+}
